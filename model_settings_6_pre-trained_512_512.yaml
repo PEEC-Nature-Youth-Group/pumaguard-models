@@ -10,7 +10,7 @@ image-dimensions:
 lion-directories:
 - lion
 - cougar
-model-function: pretrained
+model-function: xception
 model-version: pre-trained
 no-lion-directories:
 - no_lion
