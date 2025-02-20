@@ -1,0 +1,28 @@
+# PumaGuard settings
+alpha: 0.0001
+base-data-directory: ../data
+batch-size: 16
+color-mode: rgb
+epochs: 500
+image-dimensions:
+- 512
+- 512
+lion-directories:
+- lion
+- cougar
+- stable/angle 1/Lion
+- stable/angle 2/Lion
+- stable/angle 3/Lion
+- stable/angle 4/Lion
+model-function: mobilenetv3
+model-version: pre-trained
+no-lion-directories:
+- no_lion
+- nocougar
+- stable/angle 1/No lion
+- stable/angle 2/No lion
+- stable/angle 3/No lion
+- stable/angle 4/No lion
+notebook: 11
+verification-path: stable/stable_test
+with-augmentation: false
