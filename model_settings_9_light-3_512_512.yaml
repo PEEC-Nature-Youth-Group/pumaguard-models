@@ -10,18 +10,18 @@ image-dimensions:
 lion-directories:
 - lion
 - cougar
-- stable/angle 1/Lion
-- stable/angle 2/Lion
-- stable/angle 3/Lion
-- stable/angle 4/Lion
+- stable/angle 1/lion
+- stable/angle 2/lion
+- stable/angle 3/lion
+- stable/angle 4/lion
 model-function: light-3-model
 model-version: light-3
 no-lion-directories:
 - no_lion
 - nocougar
-- stable/angle 1/No Lion
-- stable/angle 2/No Lion
-- stable/angle 3/No Lion
-- stable/angle 4/No Lion
+- stable/angle 1/no-lion
+- stable/angle 2/no-lion
+- stable/angle 3/no-lion
+- stable/angle 4/no-lion
 notebook: 9
 with-augmentation: false
