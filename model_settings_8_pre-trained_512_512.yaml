@@ -17,5 +17,4 @@ no-lion-directories:
 notebook: 8
 validation-lion-directories: []
 validation-no-lion-directories: []
-verification-path: stable/stable_test
 with-augmentation: false

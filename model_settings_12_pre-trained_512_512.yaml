@@ -20,5 +20,4 @@ no-lion-directories:
 - stable/angle 3/no-lion
 - stable/angle 4/no-lion
 notebook: 12
-verification-path: stable/stable_test
 with-augmentation: false
