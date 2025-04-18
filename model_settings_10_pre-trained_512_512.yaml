@@ -7,28 +7,28 @@ image-dimensions:
 - 512
 - 512
 lion-directories:
-- data/NPS/lion/
-- data/Stables/lion/
-- data/Adis, Aditya youtube/lion/
-- data/Aditya backyard/lion/
-- data/Celia video/lion/
-- data/Zoe/lion
-- data/youtube/MvhAn6LvGKc/lion
-- data/youtube/uCpjj225Jq0/lion
+- training-data/NPS/lion/
+- training-data/Stables/lion/
+- training-data/Adis, Aditya youtube/lion/
+- training-data/Aditya backyard/lion/
+- training-data/Celia video/lion/
+- training-data/Zoe/lion
+- training-data/youtube/MvhAn6LvGKc/lion
+- training-data/youtube/uCpjj225Jq0/lion
 model-function: xception
 model-version: pre-trained
 no-lion-directories:
-- data/NPS/no-lion/
-- data/Stables/no-lion
-- data/Adis, Aditya youtube/no-lion/
-- data/Aditya backyard/no-lion/
-- data/Celia video/no-lion/
-- data/Zoe/no-lion
-- data/youtube/AcFK1xkUXew/no-lion
-- data/youtube/MTzj_gzVf0A/no-lion
-- data/youtube/peK7167CsGU/no-lion
+- training-data/NPS/no-lion/
+- training-data/Stables/no-lion
+- training-data/Adis, Aditya youtube/no-lion/
+- training-data/Aditya backyard/no-lion/
+- training-data/Celia video/no-lion/
+- training-data/Zoe/no-lion
+- training-data/youtube/AcFK1xkUXew/no-lion
+- training-data/youtube/MTzj_gzVf0A/no-lion
+- training-data/youtube/peK7167CsGU/no-lion
 notebook: 10
 validation-lion-directories: []
 validation-no-lion-directories: []
-verification-path: data/stable/stable_test
+verification-path: training-data/stable/stable_test
 with-augmentation: false

@@ -1,6 +1,6 @@
 # PumaGuard settings
 alpha: 1.0e-05
-base-data-directory: ../data
+base-data-directory: ../training-data
 batch-size: 16
 color-mode: rgb
 epochs: 300
