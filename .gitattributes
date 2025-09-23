@@ -1,2 +1,0 @@
-yolov8s.pt filter=lfs diff=lfs merge=lfs -text
-puma_cls_efficientnetv2s.h5 filter=lfs diff=lfs merge=lfs -text
