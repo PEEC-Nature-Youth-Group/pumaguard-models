@@ -1,3 +1,5 @@
 #!/bin/bash
 
-cat puma_cls_efficientnetv2s.h5_a? > puma_cls_efficientnetv2s.h5
+basedir=$(realpath $(dirname $0))
+
+cat ${basedir}/puma_cls_efficientnetv2s.h5_a? > ${basedir}/puma_cls_efficientnetv2s.h5
