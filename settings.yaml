@@ -4,7 +4,7 @@ base-data-directory: ../training-data
 file-stabilization-extra-wait: 0
 YOLO-min-size: 0.02
 YOLO-conf-thresh: 0.25
-YOLO-max-dets: 12
+YOLO-max-dets: 2
 classifier-model-filename: colorbw_110825.h5
 deterrent-sound-file: deterrent_puma.mp3
 batch-size: 16
