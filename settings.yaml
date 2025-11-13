@@ -1,7 +1,7 @@
 # PumaGuard settings
 alpha: 0.0001
 base-data-directory: ../training-data
-file-stabilization-extra-wait: 1
+file-stabilization-extra-wait: 0
 YOLO-min-size: 0.02
 YOLO-conf-thresh: 0.25
 YOLO-max-dets: 12
