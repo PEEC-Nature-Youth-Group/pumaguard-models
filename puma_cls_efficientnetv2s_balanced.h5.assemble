@@ -1,5 +1,0 @@
-#!/bin/bash
-
-basedir=$(realpath $(dirname $0))
-
-cat ${basedir}/puma_cls_efficientnetv2s_balanced.h5_?? > ${basedir}/puma_cls_efficientnetv2s_balanced.h5
